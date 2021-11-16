@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "aws-api-gateway-client": "^0.2.16",
-    "aws-sdk": "^2.344.0",
+    "aws-sdk": "^2.814.0",
     "react": "^16.2.0",
     "react-burger-menu": "^2.2.3",
     "react-dom": "^16.2.0",
